@@ -1,2 +1,3 @@
 # fastapi-template
-A simple template build with fastapi and postgresql
+
+A simple template build with fastapi and sqlalchemy
